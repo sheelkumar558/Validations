@@ -1,0 +1,25 @@
+{
+  "name": "validations",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "server": "nodemon src/server"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/sheelkumar558/Validations.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/sheelkumar558/Validations/issues"
+  },
+  "homepage": "https://github.com/sheelkumar558/Validations#readme",
+  "dependencies": {
+    "express": "^4.17.3",
+    "express-validator": "^6.14.0",
+    "mongoose": "^6.2.9"
+  }
+}
